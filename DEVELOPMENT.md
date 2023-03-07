@@ -1,7 +1,7 @@
 # Developing locally
 
 - Clone the repo: `git clone https://github.com/cncf/devstats.git`.
-- Checkout `production` branch (this is always a final working state on production machines).
+- Checkout `master` branch.
 - Create branch from there.
 - If you want to createa PR, fork the repo instead of cloning and create PR from your fork.
 - Follow install instructions for your platform.
